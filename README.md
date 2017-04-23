@@ -1,1 +1,1 @@
-# reinforcement_learning
+Various algorithms associated with Deep Reinforcement Learning
